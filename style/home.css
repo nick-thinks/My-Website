@@ -76,7 +76,7 @@ a {
 }
 
 #header-image {
-    filter: blur(10px);
+    filter: blur(20px);
     transform: scale(1.1);
 }
 
